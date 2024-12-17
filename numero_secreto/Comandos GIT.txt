@@ -1,0 +1,18 @@
+Comandos GIT
+
+*Para realizar o deploy do zero*
+echo "# numero-secreto" >> README.md
+git init
+git add . 
+git commit -m "projeto inicial"
+git branch -M main
+git remote add origin https://github.com/PDELBONE/numero-secreto.git - trocar o protocolo para SSH
+git push -u origin main
+
+*Para atualizar um deploy*
+git remote add origin https://github.com/PDELBONE/numero-secreto.git - trocar o protocolo para SSH
+git branch -M main
+git push -u origin main
+
+git remote rename Instalike-back-Imersao-Alura Instalike
+git push -u Instalike-back-Imersao-Alura main
