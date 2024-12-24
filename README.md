@@ -1,68 +1,44 @@
-<h1>Jogo do número secreto</h1>
+# Jogo do número secreto
 
-<h2>Sobre :information_source:</h2>
-<p>Projeto utilizado no curso de lógica de programação da Alura, para o aprendizado de Git e GitHub.</p>
+## Sobre :information_source:
+Projeto utilizado no curso de lógica de programação da Alura, para o aprendizado de Git e GitHub.
 
-<h2>Conceitos fixados no curso :brain:</h2>
-<div>
+## Acesse o Jogo 🎮
+Você pode jogar diretamente no navegador clicando no link abaixo:
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Baixar uma cópia de um repositório hospedado no GitHub para o meu computador, utilizando o comando:&logo=GIT&message=git clone&color=blue&style=for-the-badge"/>
-</p>
+[🔗 Acesse o Jogo no GitHub Pages](https://pdelbone.github.io/numero-secreto)
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Realizar alterações no código de um projeto e registrá-las com commits, utilizando os comandos:&logo=GIT&message=git add e git commit&color=blue&style=for-the-badge"/>
-</p>
+## Conceitos fixados no curso :brain:
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Visualizar quais arquivos foram modificados no repositório local, utilizando o comando:&logo=GIT&message=git status&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Baixar uma cópia de um repositório hospedado no GitHub para o meu computador, utilizando o comando:** `git clone`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Listar os commits realizados no repositório, com dados do autor, data e mensagem de cada commit, utilizando o comando:&logo=GIT&message=git log&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Realizar alterações no código de um projeto e registrá-las com commits, utilizando os comandos:** `git add e git commit`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Enviar commits feitos no repositório local para o repositório remoto, utilizando o comando:&logo=GIT&message=git push&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Visualizar quais arquivos foram modificados no repositório local, utilizando o comando:** `git status`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Baixar commits do repositório remoto para o repositório local, utilizando o comando:&logo=GIT&message=git pull&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Listar os commits realizados no repositório, com dados do autor, data e mensagem de cada commit, utilizando o comando:** `git log`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Listar, remover, alterar a URL e renomear um repositório remoto utilizando o comando:&logo=GIT&message=git remote&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Enviar commits feitos no repositório local para o repositório remoto, utilizando o comando:** `git push`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Desfazer alterações em um commit local utilizando o comando:&logo=GIT&message=git revert&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Baixar commits do repositório remoto para o repositório local, utilizando o comando:** `git pull`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Apagar alterações em um commit local utilizando o comando:&logo=GIT&message=git reset --hard&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Listar, remover, alterar a URL e renomear um repositório remoto utilizando o comando:** `git remote`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Alterar a mensagem, e adicionar um arquivo modificado esquecido no último commit utilizando o comando:&logo=GIT&message=git commit --amend&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Desfazer alterações em um commit local utilizando o comando:** `git revert`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Ignorar no commit determinados arquivos e/ou diretórios do projeto, com a criação do arquivo oculto: &logo=GIT&message=.gitignore&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Apagar alterações em um commit local utilizando o comando:** `git reset --hard`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também como aceitar um convite de colaboração recebido&logo=GIThub&message=GitHub&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Criar um arquivo chamado logs.txt contendo os logs de commits utilizando o comando:** `git log > logs.txt`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Criar e personalizar o arquivo README de um repositório&logo=GitHub&message=GitHub&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Alterar a mensagem, e adicionar um arquivo modificado esquecido no último commit utilizando o comando:** `git commit --amend`
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Compartilhar trechos de códigos com a ferramenta do GitHub:&logo=GitHub&message=Gist&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Ignorar no commit determinados arquivos e/ou diretórios do projeto, com a criação do arquivo oculto:** `.gitignore`
 
-</div>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Compartilhar trechos de códigos com a ferramenta do GitHub:** `Gist`
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também como aceitar um convite de colaboração recebido**
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20" height="20"> **Criar e personalizar o arquivo README de um repositório GitHub**
 
 <h2>Certificado📂</h2>
 
