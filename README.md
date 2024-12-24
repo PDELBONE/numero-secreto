@@ -5,6 +5,7 @@
 
 <h2>Conceitos fixados no curso</h2>
 <div>
+  
 --> Baixar uma cópia de um repositório hospedado no GitHub para o meu computador, utilizando o comando git clone;
   
 --> Realizar alterações no código de um projeto e registrá-las com commits, utilizando os comandos git add e git commit;
@@ -19,7 +20,7 @@
 
 --> Baixar commits do repositório remoto para o repositório local, utilizando o comando git pull;
 
---> Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também como aceitar um convite de colaboração recebido.
+--> Adicionar uma pessoa como colaboradora em um repositório no GitHub, e também como aceitar um convite de colaboração recebido;
 
 --> Criar o arquivo README de um repositório, que funciona como uma documentação;
 
