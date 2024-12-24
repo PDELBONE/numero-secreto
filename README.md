@@ -23,15 +23,27 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Visualizar os repositórios remotos linkados com o repositório local, utilizando o comando:&logo=GIT&message=git remote&color=blue&style=for-the-badge"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/static/v1?label=Enviar commits feitos no repositório local para o repositório remoto, utilizando o comando:&logo=GIT&message=git push&color=blue&style=for-the-badge"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Baixar commits do repositório remoto para o repositório local, utilizando o comando:&logo=GIT&message=git pull&color=blue&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Listar, remover, alterar a URL e renomear um repositório remoto utilizando o comando:&logo=GIT&message=git remote&color=blue&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Desfazer alterações em um commit local utilizando o comando:&logo=GIT&message=git revert&color=blue&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Apagar alterações em um commit local utilizando o comando:&logo=GIT&message=git reset --hard&color=blue&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Alterar a mensagem, e adicionar um arquivo modificado esquecido no último commit utilizando o comando:&logo=GIT&message=git commit --amend&color=blue&style=for-the-badge"/>
 </p>
 
 <p align="center">
